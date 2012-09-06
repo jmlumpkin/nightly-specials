@@ -11,17 +11,17 @@
 	<key>ForegroundColor</key>
 	<string>rgba(0.800000,0.800000,0.800000,1.000000)</string>
 	<key>HTMLAnchorColor</key>
-	<string>rgba(0.335897,0.348775,0.719615,1.000000)</string>
+	<string>rgba(0.200000,0.400000,0.600000,1.000000)</string>
 	<key>HTMLAttributeNameColor</key>
-	<string>rgba(0.392120,0.432047,0.811170,1.000000)</string>
+	<string>rgba(0.400000,0.600000,0.800000,1.000000)</string>
 	<key>HTMLAttributeValueColor</key>
 	<string>rgba(0.600000,0.600000,0.600000,1.000000)</string>
 	<key>HTMLImageColor</key>
-	<string>rgba(0.335897,0.348775,0.719615,1.000000)</string>
+	<string>rgba(0.200000,0.400000,0.600000,1.000000)</string>
 	<key>HTMLProcessingDirectiveColor</key>
-	<string>rgba(0.392120,0.432047,0.811170,1.000000)</string>
+	<string>rgba(0.200000,0.400000,0.600000,1.000000)</string>
 	<key>HTMLTagColor</key>
-	<string>rgba(0.335897,0.348775,0.719615,1.000000)</string>
+	<string>rgba(0.200000,0.400000,0.600000,1.000000)</string>
 	<key>HighlightInsertionPoint</key>
 	<true/>
 	<key>InsertionPointLineHighlightColor</key>
